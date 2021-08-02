@@ -1,0 +1,13 @@
+C:\Users\Rmansour2\source\repos\Week4\Assessment2GC\bin\Debug\netcoreapp3.1\Assessment2GC.exe
+C:\Users\Rmansour2\source\repos\Week4\Assessment2GC\bin\Debug\netcoreapp3.1\Assessment2GC.deps.json
+C:\Users\Rmansour2\source\repos\Week4\Assessment2GC\bin\Debug\netcoreapp3.1\Assessment2GC.runtimeconfig.json
+C:\Users\Rmansour2\source\repos\Week4\Assessment2GC\bin\Debug\netcoreapp3.1\Assessment2GC.runtimeconfig.dev.json
+C:\Users\Rmansour2\source\repos\Week4\Assessment2GC\bin\Debug\netcoreapp3.1\Assessment2GC.dll
+C:\Users\Rmansour2\source\repos\Week4\Assessment2GC\bin\Debug\netcoreapp3.1\Assessment2GC.pdb
+C:\Users\Rmansour2\source\repos\Week4\Assessment2GC\obj\Debug\netcoreapp3.1\Assessment2GC.csproj.AssemblyReference.cache
+C:\Users\Rmansour2\source\repos\Week4\Assessment2GC\obj\Debug\netcoreapp3.1\Assessment2GC.AssemblyInfoInputs.cache
+C:\Users\Rmansour2\source\repos\Week4\Assessment2GC\obj\Debug\netcoreapp3.1\Assessment2GC.AssemblyInfo.cs
+C:\Users\Rmansour2\source\repos\Week4\Assessment2GC\obj\Debug\netcoreapp3.1\Assessment2GC.csproj.CoreCompileInputs.cache
+C:\Users\Rmansour2\source\repos\Week4\Assessment2GC\obj\Debug\netcoreapp3.1\Assessment2GC.dll
+C:\Users\Rmansour2\source\repos\Week4\Assessment2GC\obj\Debug\netcoreapp3.1\Assessment2GC.pdb
+C:\Users\Rmansour2\source\repos\Week4\Assessment2GC\obj\Debug\netcoreapp3.1\Assessment2GC.genruntimeconfig.cache
